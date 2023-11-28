@@ -1,7 +1,3 @@
-Sure, here's a basic README for your program on GitHub:
-
----
-
 # Windows Mini-Tool
 
 ## Overview
@@ -42,6 +38,4 @@ Contributions are welcome! Feel free to fork the repository, make improvements, 
 ## License
 This project is licensed under [MIT License](https://github.com/Mf-malaak/Windows-Mini-Tool-WMT/blob/main/LICENSE).
 
----
 
-Make sure to replace `[link-to-license](https://github.com/Mf-malaak/Windows-Mini-Tool-WMT/blob/main/LICENSE)` with the actual link to your license file on GitHub or the proper license name. This README provides a basic overview of your program, its functionalities, usage, requirements, and how others can contribute. Feel free to expand or modify it to suit your project's specifics.
